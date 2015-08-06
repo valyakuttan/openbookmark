@@ -1,3 +1,2 @@
 ## openbookmark.js
-A bookmark manager, based on Hilary mason's idea
-[gitmarks](https://github.com/hmason/gitmarks).  
+A bookmark manager, based on Hilary Mason's [gitmarks](https://github.com/hmason/gitmarks).  
